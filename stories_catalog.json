@@ -8,23 +8,233 @@
     "zipUrl": "https://raw.githubusercontent.com/arslanturkserkn-ops/KidsUniverse/main/stories/story_201.zip",
     "pages": [
       {
-        "text": "K\u0131\u015F mevsimi gelmi\u015F, g\u00F6ky\u00FCz\u00FCndeki bulutlar bembeyaz pamuklara d\u00F6n\u00FC\u015Fm\u00FC\u015Ft\u00FC. O bulutlardan birinde, p\u0131r\u0131l p\u0131r\u0131l parlayan Pufi ad\u0131nda minik ve sevimli bir kar tanesi ya\u015Fard\u0131.",
+        "text": "Kış mevsimi gelmiş, gökyüzündeki bulutlar bembeyaz pamuklara dönüşmüştü. O bulutlardan birinde, pırıl pırıl parlayan Pufi adında minik ve sevimli bir kar tanesi yaşardı.",
         "imageName": "page_1.webp"
       },
       {
-        "text": "Pufi di\u011Fer kar taneleri gibi hemen yere d\u00FC\u015Fmek istemiyordu. R\u00FCzgar esince hafif\u00E7e s\u00FCz\u00FCld\u00FC ve havada ne\u015Feyle dans etmeye ba\u015Flad\u0131. 'Bak\u0131n, ben u\u00E7abiliyorum!' diye sevin\u00E7le f\u0131s\u0131ldad\u0131.",
+        "text": "Pufi diğer kar taneleri gibi hemen yere düşmek istemiyordu. Rüzgar esince hafifçe süzüldü ve havada neşeyle dans etmeye başladı. 'Bakın, ben uçabiliyorum!' diye sevinçle fısıldadı.",
         "imageName": "page_2.webp"
       },
       {
-        "text": "Yere do\u011Fru yakla\u015F\u0131rken s\u00FCsl\u00FC bir \u00E7am a\u011Fac\u0131n\u0131n dal\u0131na kondu. A\u011Fac\u0131n alt\u0131nda atk\u0131s\u0131n\u0131 kaybetmi\u015F, so\u011Fuktan titreyen minik bir tav\u015Fanc\u0131k g\u00F6rd\u00FC. Pufi ona hemen yard\u0131m etmek istedi.",
+        "text": "Yere doğru yaklaşırken süslü bir çam ağacının dalına kondu. Ağacın altında atkısını kaybetmiş, soğuktan titreyen minik bir tavşancık gördü. Pufi ona hemen yardım etmek istedi.",
         "imageName": "page_3.webp"
       },
       {
-        "text": "Pufi par\u0131ldayarak di\u011Fer kar tanesi arkada\u015Flar\u0131n\u0131 \u00E7a\u011F\u0131rd\u0131. Birlikte \u00E7am a\u011Fac\u0131n\u0131n etraf\u0131nda yumu\u015Fac\u0131k, korunakl\u0131 bir kar yuvas\u0131 \u00F6rd\u00FCler. Minik tav\u015Fan r\u00FCzgardan korunup s\u0131cac\u0131k bir uykuya dald\u0131.",
+        "text": "Pufi parıldayarak diğer kar tanesi arkadaşlarını çağırdı. Birlikte çam ağacının etrafında yumuşacık, korunaklı bir kar yuvası ördüler. Minik tavşan rüzgardan korunup sıcacık bir uykuya daldı.",
         "imageName": "page_4.webp"
       },
       {
-        "text": "Sabah tatl\u0131 bir k\u0131\u015F g\u00FCne\u015Fi a\u00E7t\u0131\u011F\u0131nda, minik tav\u015Fan ne\u015Feyle uyand\u0131 ve g\u00F6ky\u00FCz\u00FCne bak\u0131p g\u00FCl\u00FCmsedi. Pufi ve arkada\u015Flar\u0131, sevgi ve yard\u0131mla\u015Fman\u0131n en so\u011Fuk g\u00FCnleri bile s\u0131cac\u0131k yapt\u0131\u011F\u0131n\u0131 biliyordu.",
+        "text": "Sabah tatlı bir kış güneşi açtığında, minik tavşan neşeyle uyandı ve gökyüzüne bakıp gülümsedi. Pufi ve arkadaşları, sevgi ve yardımlaşmanın en soğuk günleri bile sıcacık yaptığını biliyordu.",
+        "imageName": "page_5.webp"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Pufi the Cute Snowflake",
+    "language": "en",
+    "color": "#4FC3F7",
+    "isPremium": false,
+    "zipUrl": "https://raw.githubusercontent.com/arslanturkserkn-ops/KidsUniverse/main/stories/story_201.zip",
+    "pages": [
+      {
+        "text": "Winter had arrived, and the fluffy clouds in the sky turned into soft white cotton. On one of those clouds lived a tiny, cheerful snowflake named Pufi, sparkling with joy.",
+        "imageName": "page_1.webp"
+      },
+      {
+        "text": "Pufi did not want to fall to the ground right away. As the gentle breeze blew, he floated softly and danced in the air. 'Look, I can fly!' he whispered happily.",
+        "imageName": "page_2.webp"
+      },
+      {
+        "text": "As he drifted closer to the ground, he landed gently on a pine tree branch. Under the tree, he noticed a tiny little bunny shivering in the cold without a scarf. Pufi wanted to help him right away.",
+        "imageName": "page_3.webp"
+      },
+      {
+        "text": "Pufi twinkled brightly and called all his snowflake friends. Together, they formed a soft, cozy snow blanket around the pine tree. Safe from the chilly wind, the little bunny fell into a warm and peaceful sleep.",
+        "imageName": "page_4.webp"
+      },
+      {
+        "text": "When the golden morning sun appeared, the bunny woke up happily and smiled up at the sky. Pufi and his friends knew that kindness and helping each other could make even the coldest winter day warm and joyful.",
+        "imageName": "page_5.webp"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Pufi die süße Schneeflocke",
+    "language": "de",
+    "color": "#4FC3F7",
+    "isPremium": false,
+    "zipUrl": "https://raw.githubusercontent.com/arslanturkserkn-ops/KidsUniverse/main/stories/story_201.zip",
+    "pages": [
+      {
+        "text": "Der Winter war da, und die Wolken am Himmel verwandelten sich in weiße, weiche Watte. Auf einer dieser Wolken lebte eine winzige, fröhliche Schneeflocke namens Pufi, die im Licht funkelte.",
+        "imageName": "page_1.webp"
+      },
+      {
+        "text": "Pufi wollte nicht sofort auf den Boden fallen. Als ein sanfter Wind wehte, schwebte er leichtfüßig und tanzte vergnügt durch die Luft. 'Schaut mal, ich kann fliegen!', flüsterte er glücklich.",
+        "imageName": "page_2.webp"
+      },
+      {
+        "text": "Als er sich der Erde näherte, landete er behutsam auf dem Ast eines Tannenbaums. Unter dem Baum sah er ein kleines Häschen, das vor Kälte zitterte. Pufi wollte ihm sofort helfen.",
+        "imageName": "page_3.webp"
+      },
+      {
+        "text": "Pufi funkelte hell und rief seine Schneeflocken-Freunde herbei. Gemeinsam bauten sie ein weiches, schützendes Schneedach um die Tanne. Vor dem eisigen Wind geschützt, schlief das Häschen wohlig und warm ein.",
+        "imageName": "page_4.webp"
+      },
+      {
+        "text": "Als am Morgen die milde Wintersonne schien, wachte das Häschen munter auf und blickte dankbar in den Himmel. Pufi und seine Freunde wussten: Freundschaft und Hilfsbereitschaft wärmen selbst den kältesten Wintertag.",
+        "imageName": "page_5.webp"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "title": "Pufi el Copito de Nieve",
+    "language": "es",
+    "color": "#4FC3F7",
+    "isPremium": false,
+    "zipUrl": "https://raw.githubusercontent.com/arslanturkserkn-ops/KidsUniverse/main/stories/story_201.zip",
+    "pages": [
+      {
+        "text": "Había llegado el invierno y las nubes del cielo se habían convertido en suave algodón blanco. En una de ellas vivía un copito de nieve diminuto y alegre llamado Pufi, que brillaba con ilusión.",
+        "imageName": "page_1.webp"
+      },
+      {
+        "text": "Pufi no quería caer al suelo de inmediato. Cuando sopló una brisa suave, flotó con ligereza y comenzó a bailar en el aire. '¡Miren, puedo volar!', susurró contento.",
+        "imageName": "page_2.webp"
+      },
+      {
+        "text": "Al acercarse a la tierra, se posó suavemente sobre la rama de un pino. Debajo del árbol, vio a un conejito temblando de frío. Pufi sintió un gran deseo de ayudarle.",
+        "imageName": "page_3.webp"
+      },
+      {
+        "text": "Pufi brilló con fuerza y llamó a sus amigos los copos de nieve. Juntos formaron un refugio de nieve esponjoso y protector alrededor del árbol. A salvo del viento helado, el conejito durmió plácidamente y abrigado.",
+        "imageName": "page_4.webp"
+      },
+      {
+        "text": "Por la mañana, cuando salió el cálido sol de invierno, el conejito despertó feliz y sonrió mirando al cielo. Pufi y sus amigos sabían que el cariño y la solidaridad hacen que incluso el día más frío sea cálido y hermoso.",
+        "imageName": "page_5.webp"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "title": "بوفي ندفة الثلج اللطيفة",
+    "language": "ar",
+    "color": "#4FC3F7",
+    "isPremium": false,
+    "zipUrl": "https://raw.githubusercontent.com/arslanturkserkn-ops/KidsUniverse/main/stories/story_201.zip",
+    "pages": [
+      {
+        "text": "حل فصل الشتاء، وتحولت الغيوم في السماء إلى قطع قطنية بيضاء ناعمة. وعلى إحدى تلك الغيوم، كانت تعيش ندفة ثلج صغيرة ومرحة تدعى بوفي، تلمع بفرح وسرور.",
+        "imageName": "page_1.webp"
+      },
+      {
+        "text": "لم تكن بوفي ترغب في السقوط على الأرض فوراً. وعندما هبت نسمة هواء لطيفة، تمايلت بخفة وبدأت ترقص في الهواء. وهمست بسعادة: 'انظروا، أنا أستطيع الطيران!'",
+        "imageName": "page_2.webp"
+      },
+      {
+        "text": "وعندما اقتربت من الأرض، حطت برقة على غصن شجرة صنوبر جميلة. ورأت تحت الشجرة أرنباً صغيراً يرتجف من شدة البرد. فأرادت بوفي مساعدته على الفور.",
+        "imageName": "page_3.webp"
+      },
+      {
+        "text": "أضاءت بوفي ونادت أصدقاءها من نديفات الثلج. وتعاونوا جميعاً لصنع مأوى ثلجي دافئ وناعم يحمي الأرنب من الرياح الباردة. فغرق الأرنب الصغير في نوم دافئ وهادئ.",
+        "imageName": "page_4.webp"
+      },
+      {
+        "text": "وفي الصباح، عندما أشرقت شمس الشتاء الدافئة، استيقظ الأرنب بنشاط وابتسم وهو ينظر إلى السماء. وأدركت بوفي وأصدقاؤها أن المحبة والتعاون يجعلان حتى أبرد الأيام دافئة وسعيدة.",
+        "imageName": "page_5.webp"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Снежинка Пуфи",
+    "language": "ru",
+    "color": "#4FC3F7",
+    "isPremium": false,
+    "zipUrl": "https://raw.githubusercontent.com/arslanturkserkn-ops/KidsUniverse/main/stories/story_201.zip",
+    "pages": [
+      {
+        "text": "Наступила зима, и облака в небе превратились в мягкие белые хлопья. На одном из них жила крошечная и весёлая снежинка по имени Пуфи, сияющая чистым светом.",
+        "imageName": "page_1.webp"
+      },
+      {
+        "text": "Пуфи не хотелось сразу падать на землю. Когда подул легкий ветерок, она плавно закружилась и весело затанцевала в воздухе. 'Смотрите, я летаю!' — радостно прошептала она.",
+        "imageName": "page_2.webp"
+      },
+      {
+        "text": "Приближаясь к земле, Пуфи опустилась на веточку пушистой ёлочки. Под деревом она увидела маленького зайчонка, который дрожал от холода. Пуфи сразу захотела ему помочь.",
+        "imageName": "page_3.webp"
+      },
+      {
+        "text": "Пуфи заискрилась и позвала своих друзей-снежинок. Вместе они укрыли ёлочку мягким снежным одеялом, защитив зайчонка от морозного ветра. Малыш согрелся и сладко уснул.",
+        "imageName": "page_4.webp"
+      },
+      {
+        "text": "Утром, когда выглянуло ласковое зимнее солнышко, зайчонок проснулся счастливым и с улыбкой посмотрел в небо. Пуфи и её друзья знали: дружба и доброта согревают даже в самый холодный день.",
+        "imageName": "page_5.webp"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "title": "可爱的雪花泡泡",
+    "language": "zh",
+    "color": "#4FC3F7",
+    "isPremium": false,
+    "zipUrl": "https://raw.githubusercontent.com/arslanturkserkn-ops/KidsUniverse/main/stories/story_201.zip",
+    "pages": [
+      {
+        "text": "冬天来了，天空中的云朵变成了松软的白棉花。在其中一朵云上，住着一片名叫泡泡的小雪花，闪闪发光，活泼可爱。",
+        "imageName": "page_1.webp"
+      },
+      {
+        "text": "泡泡不想马上落到地上。微风吹来，他轻盈地飘了起来，在空中欢快地跳舞。“看呀，我能飞呢！”他高兴地轻轻说道。",
+        "imageName": "page_2.webp"
+      },
+      {
+        "text": "当他靠近地面时，轻轻落在一棵松树的枝头上。他在树下看到一只小兔子正冻得发抖。泡泡立刻想帮助这只可爱的小兔子。",
+        "imageName": "page_3.webp"
+      },
+      {
+        "text": "泡泡闪耀着光芒，呼唤着其他雪花伙伴。他们一起在松树周围筑起了一个柔软温暖的雪窝。小兔子避开了刺骨的寒风，香甜地睡着了。",
+        "imageName": "page_4.webp"
+      },
+      {
+        "text": "早晨温暖的冬日阳光洒向大地，小兔子开心地醒来，抬头对着天空微笑。泡泡和小伙伴们明白：爱与互助能让最寒冷的冬天也变得充满暖意。",
+        "imageName": "page_5.webp"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "title": "かわいい雪の結晶プフィ",
+    "language": "ja",
+    "color": "#4FC3F7",
+    "isPremium": false,
+    "zipUrl": "https://raw.githubusercontent.com/arslanturkserkn-ops/KidsUniverse/main/stories/story_201.zip",
+    "pages": [
+      {
+        "text": "冬がやってきて、空の雲はふわふわの白い綿のようになりました。その雲のひとつに、きらきら輝く「プフィ」という小さな雪の結晶が住んでいました。",
+        "imageName": "page_1.webp"
+      },
+      {
+        "text": "プフィはすぐに地面に落ちたくありませんでした。やさしい風が吹くと、ふわりと浮かんで楽しそうに空で踊りはじめました。「見て、ぼく飛べるよ！」とうれしそうにささやきました。",
+        "imageName": "page_2.webp"
+      },
+      {
+        "text": "地面に近づくと、もみの木の小枝の上にそっと舞い降りました。木の下を見ると、寒さでふるえている小さな子うさぎがいました。プフィはすぐに助けてあげたいと思いました。",
+        "imageName": "page_3.webp"
+      },
+      {
+        "text": "プフィはぴかぴかと光って、雪の仲間たちを呼びました。みんなでもみの木のまわりに、やわらかくて温かい雪のシェルターを作りました。冷たい風から守られた子うさぎは、ぐっすりと眠りました。",
+        "imageName": "page_4.webp"
+      },
+      {
+        "text": "朝、やさしい冬の光が差し込むと、子うさぎはうれしそうに目を覚まし、空を見上げてにっこり笑いました。プフィと仲間たちは、やさしさと助け合いがあれば、どんなに寒い冬でも心があたたかくなることを知っていました。",
         "imageName": "page_5.webp"
       }
     ]
