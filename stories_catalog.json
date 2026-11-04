@@ -1,0 +1,32 @@
+[
+  {
+    "id": 201,
+    "title": "Sevimli Kar Tanesi Pufi",
+    "language": "tr",
+    "color": "#4FC3F7",
+    "isPremium": false,
+    "zipUrl": "https://raw.githubusercontent.com/arslanturkserkn-ops/KidsUniverse/main/stories/story_201.zip",
+    "pages": [
+      {
+        "text": "K\u0131\u015F mevsimi gelmi\u015F, g\u00F6ky\u00FCz\u00FCndeki bulutlar bembeyaz pamuklara d\u00F6n\u00FC\u015Fm\u00FC\u015Ft\u00FC. O bulutlardan birinde, p\u0131r\u0131l p\u0131r\u0131l parlayan Pufi ad\u0131nda minik ve sevimli bir kar tanesi ya\u015Fard\u0131.",
+        "imageName": "page_1.webp"
+      },
+      {
+        "text": "Pufi di\u011Fer kar taneleri gibi hemen yere d\u00FC\u015Fmek istemiyordu. R\u00FCzgar esince hafif\u00E7e s\u00FCz\u00FCld\u00FC ve havada ne\u015Feyle dans etmeye ba\u015Flad\u0131. 'Bak\u0131n, ben u\u00E7abiliyorum!' diye sevin\u00E7le f\u0131s\u0131ldad\u0131.",
+        "imageName": "page_2.webp"
+      },
+      {
+        "text": "Yere do\u011Fru yakla\u015F\u0131rken s\u00FCsl\u00FC bir \u00E7am a\u011Fac\u0131n\u0131n dal\u0131na kondu. A\u011Fac\u0131n alt\u0131nda atk\u0131s\u0131n\u0131 kaybetmi\u015F, so\u011Fuktan titreyen minik bir tav\u015Fanc\u0131k g\u00F6rd\u00FC. Pufi ona hemen yard\u0131m etmek istedi.",
+        "imageName": "page_3.webp"
+      },
+      {
+        "text": "Pufi par\u0131ldayarak di\u011Fer kar tanesi arkada\u015Flar\u0131n\u0131 \u00E7a\u011F\u0131rd\u0131. Birlikte \u00E7am a\u011Fac\u0131n\u0131n etraf\u0131nda yumu\u015Fac\u0131k, korunakl\u0131 bir kar yuvas\u0131 \u00F6rd\u00FCler. Minik tav\u015Fan r\u00FCzgardan korunup s\u0131cac\u0131k bir uykuya dald\u0131.",
+        "imageName": "page_4.webp"
+      },
+      {
+        "text": "Sabah tatl\u0131 bir k\u0131\u015F g\u00FCne\u015Fi a\u00E7t\u0131\u011F\u0131nda, minik tav\u015Fan ne\u015Feyle uyand\u0131 ve g\u00F6ky\u00FCz\u00FCne bak\u0131p g\u00FCl\u00FCmsedi. Pufi ve arkada\u015Flar\u0131, sevgi ve yard\u0131mla\u015Fman\u0131n en so\u011Fuk g\u00FCnleri bile s\u0131cac\u0131k yapt\u0131\u011F\u0131n\u0131 biliyordu.",
+        "imageName": "page_5.webp"
+      }
+    ]
+  }
+]
